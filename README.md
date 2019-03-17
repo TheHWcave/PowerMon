@@ -9,6 +9,6 @@ and how to install it
 The development is broken into different parts (part1, part2...) each exploring 
 different aspects and design options
 
-Each new part supersedes all previous ones Part 4.1 is the latest version
+Each new part supersedes all previous ones Part 4.2 is the latest version
 
 
